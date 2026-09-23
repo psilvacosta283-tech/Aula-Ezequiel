@@ -1,5 +1,7 @@
 # 🥗 Portfólio — Pedro Henrique
 
+🔗 **Site ao vivo:** https://psilvacosta283-tech.github.io/Aula-Ezequiel/
+
 Site de portfólio profissional de **Pedro Henrique**, auxiliar de hortifruti do **Pão de Açúcar**.
 
 ## ✨ Sobre o projeto
